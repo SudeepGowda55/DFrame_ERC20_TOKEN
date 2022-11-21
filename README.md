@@ -1,8 +1,4 @@
-# Sample Hardhat Project
-
-First Replace the ERC20.sol file present in the contracts directory with the ERC20.sol file present in the @openzeppelin directory of nodemodules.  
-
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+First Replace the ERC20.sol file present in the contracts directory with the ERC20.sol file present in the @openzeppelin directory of nodemodules.
 
 Try running some of the following tasks:
 
