@@ -15,5 +15,7 @@ main()
     process.exitCode = 1;
   });
 
-  // 0xbcbA862fBd0fB77929b1889eB6aAC70da34e02C8
+  // 0xbcbA862fBd0fB77929b1889eB6aAC70da34e02C8 -> Old contract address
+
+  // 0x5E098E545f3e16646DB47A8D0A9e0bC70bF26f89    -> New Contract Address
   // polygon mainnet contract address
